@@ -15,4 +15,5 @@ class UI:
         # 运行应用
         app.exec_()
     def CreateButtons(): #按钮创建，按钮功能可以先留空等别人接线
-        
+
+    def CreateCalendar():  #日历创建1：包括切换年月；显示星期、天数；标注当天
